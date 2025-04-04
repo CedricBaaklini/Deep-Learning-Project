@@ -90,6 +90,7 @@ psutil=7.0.0=pypi_0
 pthread-stubs=0.4=hb9d3cd8_1002
 pybind11=2.13.6=pyh1ec8472_2
 pybind11-global=2.13.6=pyh415d2e4_2
+pygments=2.19.1=pypi_0
 pyparsing=3.2.1=pypi_0
 python=3.13.1=ha99a958_105_cp313
 python_abi=3.13=5_cp313
