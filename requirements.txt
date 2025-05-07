@@ -3,10 +3,10 @@
 # platform: linux-64
 # created-by: conda 24.9.2
 
-torch~=2.2.2
-torch-geometric~=2.6.1
-numpy~=2.2.4
-matplotlib~=3.10.1
-psutil~=7.0.0
-ase~=3.25.0
-scikit-learn~=1.6.1
+torch>=2.2.2
+torch-geometric>=2.6.1
+numpy>=2.2.4
+matplotlib>=3.10.1
+psutil>=7.0.0
+ase>=3.25.0
+scikit-learn>=1.6.1
